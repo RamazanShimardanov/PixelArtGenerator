@@ -1,6 +1,6 @@
 # Pixel Art Generator
 
-![Pixel Art Example](https://example.com/pixel-art-sample.jpg) *(replace with actual example image)*
+![Pixel Art Example](/demo/demoImg.png) 
 
 ## Description
 
